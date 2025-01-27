@@ -1,8 +1,8 @@
 **Slokas from Brahmasphutasiddhanta**
-
- जात्यद्वय कोटिभुजाः परकर्णगुणा भुजाश्चतुर्विषमे । 
- अधिको भूर्मु खद्दोनो बाहुद्वितयं भुजावन्यौ ॥
- (BrSpSi XII.38) This sloka describes the method of obtaining a rational cyclic quadrilateral using two nonsimilar rational right triangles. (This seems to be slightly different from the method described below.)
+<poem>
+जात्यद्वय कोटिभुजाः परकर्णगुणा भुजाश्चतुर्विषमे । 
+अधिको भूर्मु खद्दोनो बाहुद्वितयं भुजावन्यौ ॥
+(BrSpSi XII.38) This sloka describes the method of obtaining a rational cyclic quadrilateral using two nonsimilar rational right triangles. (This seems to be slightly different from the method described below.)
 
 मूलं द्विषेष्ट वर्गाद् गुणक गुणादिष्टयुत विधानाच्च ।
 श्राद्यववो गुणकगुण्णः सहान्यघातेन कृतमन्त्यम् ॥
@@ -25,3 +25,4 @@
 स्वोवोऽन्त्य युतोऽग्रान्तो हीनाग्रच्छेदभाजितः शेषम् ।
 अधिकामच्छेदहत मविकामयुतं भक्त्यग्रम् ॥
 (BrSpSi XVIII.3 - 5 ) These slokas describe the method of obtaining a (general) solution of the first degree indeterminate equation ax + by = c.
+</poem>
