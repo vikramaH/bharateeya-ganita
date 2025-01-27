@@ -1,0 +1,208 @@
+New chat
+Today
+Please extract the attached file
+Get App
+
+Please extract the attached file
+brahmagupta_arithmetic.pdf
+PDF 2.5MB
+Please extract the attached file into text and copy the resulting text into clipboard.
+The text from the file has been extracted and copied into the clipboard. Here is the content:
+
+Copy
+154 BRAHMAGUPTA AND ARITHMETIC
+
+which is faultless.\(^1\)
+
+This science of \textit{dhūlikarma} has not been imparted by great teachers for blasphemy. One who would be using it for this purpose would lose all good name.\(^2\)
+
+Brahmagupta uses the term \textit{gantia} only for those calculations which are of arithmetical in nature. The science of algebra, the foundations of which was laid by Āryabhata I, was named as \textit{kuṭṭaba} or \textit{kuṭṭābāra} by Āryabhata, and in the \textit{Brahmasphuta-siddhanta} also it is separately dealt with under \textit{Kuṭṭādhyaya} or \textit{kuṭṭabādhāya} (Chapter XVIII). Later on the term \textit{bijagantia} was specifically given to the science of algebra.
+
+The \textit{Kuṭṭādhyaya} of the \textit{Brahmasphuta-siddhanta} deals with the (i) concept of \textit{kuṭṭaba} (pulveriser), addition of positive and negative as well as zero quantities, equations in one unknown (\textit{eba-varna samikarana}), equations in several unknowns (\textit{aneka-varna samikarana}), equations involving products of unknowns (\textit{bhavita}) and quadratic equations (\textit{varga-prakṛtih}) (Chapter XVIII of the \textit{Brahmasphuta-siddhanta}). 
+
+\textbf{Āryabhata, Bhāskara and Brahmagupta use Place Value Notations.}
+
+In Europe the first definite traces of the place-value numerals are found in the tenth and eleventh centuries, but the numerals came into general use in mathematical text books only in the seventeenth century. In India, however, Āryabhata I (499), Bhāskara I (522), Lalla (c. 598) and Brahmagupta (628) all use the place value numerals. There is no trace of any other system in their works. Perhaps in this country we had the place value system as early as 200 B.C. if not earlier. The use of a symbol for zero is found in Pīngala's \textit{Chandah Sūtra} (perhaps of 200 B.C.). In literature, we have an indication of the place value from about 100 B.C. and later in the Purānas from the second to the fourth century A.D. The \textit{Bakhasūn Manuscript} (perhaps of 200 A.D.) uses the place-value notations. The earliest use of the place value principle with the letter numerals
+
+1. \textbf{Brahma magdavshānthagmauqwai} 
+\[\begin{array}{ll}
+\text{waṇḷāgufug kawā qīvajāqu wāʾu} & -BrSpSī. X. 66.
+\end{array}\]
+
+2. \textbf{Brahma mārāgāwafkā varaway} 
+\[\begin{array}{ll}
+\text{kar gāwāwār spā nārāgā wāʾu} & -BrSpSī. X. 67
+\end{array}\]
+
+OPERATIONS AND DETERMINATIONS IN PATIGANITA 155
+
+is found in the works of Bhaskara I about the beginning of the sixth century A.D. Thus for 3179, the expressive words are Nawadriyupāgni\(^1\) (nava 9, adri 7, rupa 1 and agni 3). Similarly in the Brahmasphutasiddhanta, for a large number like 2296828522, the expressive terms are DVIYAMASARĀSTAPAKSAVASURASANAVADVIYAMĀH(Dviyama two twos 22, Sara 5,asta 8, paksa 2, vastā 8, rasa 6, nava 9, dviyamāh 22).\(^2\) Such usages are to be found in all works, which clearly state the place value concept was popular as a routine. From India, this system reached Arabia. During the reign of the Khalif Al-Mansur (753-774 A.D.) there came embassies from Sindh to Baghdad, and among them were scholars who brought along with them several works on mathematics including the Brahmasphutasiddhanta and the Khanda-khadyaka of Brahmagupta: With the help of these scholars, Alfazari, perhaps also Yakub ibn Tarik, translated them into Arabic. Both works were largely used and exercised great influence on Arab mathematics. It was on that occasion that the Arabs first became acquainted with a scientific system of astronomy. It is acceptable to all writers on the subject that it was at that time that the Hindu numerals were first definitely introduced amongst the Arabs. Arabs at first adopted the globar form of numerals which they had already obtained (but without zero) from the Alexandrians or from the Syrians. This they continued for about two centuries, but since they were not suited to their right-to-left script, they gave them up and adopted the more convenient ones. For a detailed discussion on how numerals went to the west from India and spread in Europe one is referred to this discussion in the History of Hindu Mathematics. Part I by Datta and Singh (1935, Single volume Edition, 1962, pp. 83-104). It is remarkable that Brahmagupta's works like the Brahmasphutasiddhanta and the Khanda-khadyaka became instrumental in the spread of the place-value notation in the neighouring countries of the Middle East, and from their this system spread into Europe.
+
+Operations and Determinations in Patiganita
+
+The word Patiganita is a compound formed from the words pāṭa, meaning 'board', and gavita, meaning 'science of calculation', 
+
+1. MBA. 1. 4; 
+2. BrSpSi 1-16.
+
+156 BRAHMAGUPTA AND ARITHMETIC
+
+hence it means the science of calculation which requires the uses of writing material (the board). The word \textit{pāṭā} is not Sanskrit (it originated in the non-Sanskrit literature in India); the oldest term in Sanskrit for the board is \textit{Phalaka} or \textit{patja}. However this term got currency in the Sanskrit literature also about the beginning of the seventh century. Brahmagupta does not use the term \textit{pāṭāgapita}: he favours the use of the term \textit{dhūlikarma} or writing figures on dust spread on a board or on the ground. The word \textit{pāṭāgapita} was translated into Arabic as \textit{ilm-hisab-al-tahhi} (calculation on board) and the word \textit{dhūlikarm} \(a\) as \textit{hisab-al-ghobār} (calculation on dust).
+
+Brahmagupta, in the very first verse in the Chapter XII (\textit{Gamitālhyāya}) refers to twenty operations (\textit{parikarma}) and eight determinations:
+
+He who distinctly and severally knows the twenty logistics, addition etc., and the eight determinations (\textit{vyavahāra}) including (measurement by) shadow is a \textit{gapaka} (mathematician).\(^1\)
+
+The commentators have given the list of these logistics (\textit{parikarma}) and determinations (\textit{vyavahāra}) as follows;
+
+(A) \textit{Parikarma} or logistics
+1. Sankalitam (addition)
+2. Vyavakalitam (subtraction)
+3. Gananam (multiplication)
+4. Bhāgahārah (division)
+5. Vargah (square)
+6. Vargamūlam (square-root)
+7. Ghanah (cube)
+8. Ghanamūlam (cube root)
+9. 13. Five standard forms of fractions (Pañca-jāti)
+14. Trairāśikam (the rule of three)
+15. Vysta-trairāśikam (the inverse rule of three)
+16. Pañca-rāśikam (the rule of five)
+17. Sapta-rāśikam (the rule of seven)
+18. Nava-rāśikam (the rule of nine)
+
+1. \textit{qāṭā} \textit{āṭīkā} \textit{a: qāṇāquī} \textit{qaqā} \textit{āqānā} \textit{āi}
+\textit{wājā} \textit{qāṭāquī} \textit{āṭīkāquī} \textit{qāṭāquī} \textit{qāṭāquī} \textit{a: qāṇāquī}
+
+—BrSpSi. XII. I
+
+MULTIPLICATION 157
+
+19. Ekādaśa-rāśikam (the rule of eleven) 
+20. Bhāṇḍa-pratibhāṇḍam (barter and exchange)
+
+(B) *Vyavahāra* or determinations
+1. Mīśrakah (mixture)
+2. Średhi (progession or series)
+3. Kṣetram (plane figures)
+4. Khātam (excavation)
+5. Citiḥ (stock)
+6. Krākacikah (saw)
+7. Rāśiḥ (mound)
+8. Chāyā (shadow)
+
+Of the operations enlisted here, the first eight have been considered fundamental by later writers as Mahāvira. The operations of duplation and mediation (doubling and halving) were considered fundamental by Arabs, Greeks and Egyptians; since they were not familiar with the place-value system.
+
+Mathematics in this country developed as an aid to astronomy, and therefore, for the first time we find Āryabhṭa(499AD.) in his *Āryabhānya* describing as a special section (*Gawitapāda*). Brahmagupta (628 A.D.) also followed Āryabhāta in this respect and gave the science of calculation (*gawita*) a special place in his treatise on astronomy. The *Siddhanta* treatises, earlier than those of Āryabhāta and Brahmagupta do not contain a chapter exclu-arsāṅ devoted to *gawita* (the *Sūrya-Siddhanta* and the Siddhantas of *Vasiṣṭha,Pitāmaha* and *Romaka* are thus without *gawita* chapters). Later on Bhaskara I and Lalla also did not include *gawita* as a section or chapter in their treatises.It is said, however, that Lalla wrote a separate treatise on *Pāṭagawita*.
+
+It may further be remarked here that Āryabhāta I gives the rules for finding the square and cube-roots only whilst Brahmagupta gives the cube-root rule only (*BrSPSi*. XII. 7).
+
+**Multiplication**
+
+Undoubtedly the common Indian name ‘multiplication’ is ‘*gunana*’, this term occurs in the Vedic literature also. The other terms for this logistics are *hanama*, *vaāha*, *ksaya* etc., which all mean ‘killing’ or ‘destroying.’ The synonyms of ‘*hanana*’ (killing) for multiplication have been used by Āryabhāta I (499). Brahmagupta (628), Šrīdhara (c.750) and later writers, and these terms
+
+also occur in the Bakhasāli Manuscript.
+
+Āryabhata I does not mention the everyday methods of multiplication in his Āryabhatiya probably because they were too elementary to be included in a Siddhanta work. Brahmagupta, however, in a supplement to the section on mathematics in his Siddhanta, gives the names of some methods with very brief descriptions of the processes:—
+
+The multiplicand repeated, as in gomūtrikā as often as there are digits in the multiplier, is severally multiplied by them and (the results) added according to places; this gives the product. Or the multiplicand is repeated as many times as there are component parts in the multiplier.\(^1\)
+
+(the word bheda occurring in the verse has been translated as "integrant portions" by Colebrooke p. 319. Again by the term bheda are meant portions which added together make the whole, or aliquot parts which multiplied together make the entire quantity.
+
+The multiplicand is multiplied by the sum or the difference of the multiplier and an assumed quantity and, from the result the product of the assumed quantity and the multiplicand is subtracted or added.\(^2\)
+
+(Colebrooke thinks that this is a method to obtain the true product when the multiplier has been taken to be too great or too small by mistake.\(^3\) Datta and Singh think, however, that this is not correct.\(^4\)
+
+Thus Brahmagupta mentions four methods of multiplication: (i) gomūtrikā, (ii) khanda, (iii) bheda, and (iv) iṣṭa. The common and the well known method of kaṇāta-sandhi has been omitted by him.
+
+1. yuṅnṭa-ṛegrī yuṅ nīgĭs-nīgā zjūqī: !
+    qīgā: xīgārā zjuṇītāāzgārā qī !! — BrSpSī XII.55
+
+2. yuṅnṭa-ṛegrī yuṅnṭa-ṛegrī zjūqī: !
+    yuṅnṭa-ṛegrī zjuṇītāāzgārā qī !!
+    qīgā: !!
+
+3. Colebrooke, T. H., Hindu Algebra, p. 320.
+    — BrSpSī. XII.56
+
+4. Datta, B. and Singh, A. N., History of Hindu Mathematics Pt. I (Arithmetic), p. 135 (1962).
+
+MULTIPLICATION    159
+
+(i) Gomitrika-method or zig-zag method. The word gomitrika means "similar to the course of cow's urine", hence "zigzag". This method in all essentials is the same as the shānahangda method. The following illustration is based on the commentary of Pṛthūdaka Svāmi:
+
+Example : To multiply 1223 by 235.
+
+The numbers are written thus :
+
+\[\begin{array}{ccc}
+2 & 1223 \\
+3 & 1223 \\
+5 & 1223 \\
+\end{array}\]
+
+The first line of figures is t hen multiplied by 2, the process beginning at units place, thus : \(2 \times 3 = 6\); 3 is rubbed out and 6 substituted in its place, and so on. After all the horizontal lines have been multiplied by the corresponding numbers on the left in the vertical line, the numbers on the pāṭī stand thus :
+
+\[\begin{array}{ccc}
+2446 & & \\
+3669 & & \\
+6115 & & \\
+\hline
+287405 & & \\
+\end{array}\]
+
+after being added together as in the present method.
+
+The shānahangda and the gomitrika methods resemble modern plan of multiplication most closely.
+
+(ii) Khanda Method · or Parts Multiplication Method : Since the days of Brahmagupta, this method of multiplication also became very popular. We have two methods under this head :
+
+(i) The multiplier is broken up into two or more parts whose sum is equal to it. The multiplicand is then multiplied severally by these and the results added.
+
+To take an example :
+
+\[13 \times 158 = (6 + 7) \times 158 = (6 \times 158) + (7 \times 158) = 948 + 1106 = 2054\]
+
+(ii) The multiplier is broken up into two parts. The multiplicand is then multiplied by one of these, the resulting product by the second and so on till all the parts are exhausted. The ultimate product is the result.
+
+SQUARE 161
+
+bhājaka. bhāgahāra or simply hara; quotient is known as labdhi or
+labdha (or "what is obtained").
+
+India never regarded this operation as a difficult one; in
+Europe, this operation was regarded as a tedious one till the
+15th century or so. Division was such a common operation that
+Āryabhata did not regard it as worth being included in his
+treatise. But since he has given the methods of extracting
+square-roots and cube-roots, which obviously depend on division,
+we conclude that the method of division was known to him.
+Most Siddhanta writers have followed Āryabhata I in omitting
+this operation from their texts, this being regarded too elementary
+to be included. Brahmagupta does not give details of this
+operation. The later treatises on Arithmetic as Śrīdhara's
+Trisatika and the Pāṭagayita (I.20) and Āryabhata II (c.950 A.D.)
+have given the details of this operation.
+
+Square
+
+The Sanskrit term for square is varga or kṛti (varga literally means "rows" or "troops" of similar things). In mathematics, it usually means the square power and also the square figure
+or its area. Thus we find in the Āryabhatyya :
+
+A square figure of four equal sides (and the number representing its area) are called varga. The product of the two equal quantities is also varga\(^1\).
+
+The term kṛti means "doing", "making" or "action". It carries with it the idea of specific performance probably the graphical representation.
+
+For the first time we have a definite rule for squaring in the writings of Brahmagupta. But it does not mean that prior to him it was not known. It must have been known to Āryabhata I since he has given the square-root method.
+
+Brahmagupta gives his method of squaring briefly as follows:
+
+Combining the product, twice the digit in the less (lowest) place into the several others (digits) with its (i.e. of the digit in the lowest place) square (repeatedly) gives the square.\(^2\)
+
+1. shkūn-tgxu: nasa sēvāva qsā: |    —Ārya. II. 3.
+2. wīwā fāgu agāquqngāgā sā: |    —BrŚPŚi. XII. 63.
+
+162 BRAHMAGUPTA AND
+New chat
+Message DeepSeek
+AI-generated, for reference only
