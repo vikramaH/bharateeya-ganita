@@ -1,5 +1,5 @@
 **Slokas from Brahmasphutasiddhanta**
-<poem>
+
 जात्यद्वय कोटिभुजाः परकर्णगुणा भुजाश्चतुर्विषमे । 
 अधिको भूर्मु खद्दोनो बाहुद्वितयं भुजावन्यौ ॥
 (BrSpSi XII.38) This sloka describes the method of obtaining a rational cyclic quadrilateral using two nonsimilar rational right triangles. (This seems to be slightly different from the method described below.)
@@ -25,4 +25,34 @@
 स्वोवोऽन्त्य युतोऽग्रान्तो हीनाग्रच्छेदभाजितः शेषम् ।
 अधिकामच्छेदहत मविकामयुतं भक्त्यग्रम् ॥
 (BrSpSi XVIII.3 - 5 ) These slokas describe the method of obtaining a (general) solution of the first degree indeterminate equation ax + by = c.
-</poem>
+
+-----
+
+**shlokas from खण्डखाद्यक**
+
+: '' गत भोग्य खण्डकान्तर दल विकल् वधात् शतैर्नवभिराप्तैः। 
+: ''तद्युति दलं युतोनं भोग्यादूनाधिकं भोग्यम् ॥'' (खण्डखाद्यक ; अध्याय ९, श्लोक ८)
+
+Ref : https://honors.umkc.edu/documents/hc_lucerna-v7.pdf ; TRIGONOMETRY DEVELOPMENT IN ANCIENT AND
+MEDIEVAL INDIA, Alex Karanevich
+
+While this rule applies to general functions and not just Sines, we will
+treat it as it applies to the Sine function, specifically Sin(A + x) . The rule
+translates as follows (3 p.88): [Notes in brackets are mine.]
+Consider the following Sine table:
+The “tabular difference crossed over” is Sin(A) – Sin(A – 225'),
+where Sin(A – 225') is the tabulated value preceding Sin(A), meaning we
+have already passed, or “crossed over” this Sine difference on our table of
+Sines. The tabular difference “to be crossed over” refers to Sin(A + 225') –
+Sin(A), where Sin(A + 225') is the next tabulated Sine value after Sin(A), so
+we have not “crossed over” this Sine difference yet. The “residual arc” is x,
+which is 0' < x < 225, and the “common [tabulated] interval” is the constant
+value by which our Sine table increases, 225'.
+"Multiply half the difference of the tabular differences crossed
+over [Sin(A) – Sin(A – 225')] and to be crossed over [Sin(A + 225') –
+Sin(A)] by the residual arc [x] and divide by (the common [tabulated]
+interval [225']). By the result (so obtained) increase or decrease half
+the sum of the same (two) differences, according as this [average] is
+less or greater than the difference to be crossed over. We get the true
+functional differences to be crossed over [the difference between
+Sin(A) and Sin(A + x)]"
