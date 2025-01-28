@@ -121,7 +121,7 @@ edge (pramana) in mathematical astronomy, and declares that
 authentic tradition or established text which is supported by
 upapatti will be a pramana.
 
-===
+---
 https://www.vigyanprakash.in/download/19.2.9.pdf
 
 द्विघात समीकरण (Quadratic Equation):
@@ -147,3 +147,24 @@ https://www.vigyanprakash.in/download/19.2.9.pdf
 8 × 1/2 = 4 गुणार्ध, 4 का वर्ग
 = 16, 16 + 20 = 36 योगफल
 
+---
+
+लौकिके वैदिके वापि तथा सामायिकेऽपि य: |
+
+व्यापारस्तत्र सर्वत्र संख्यानमुपयुज्यते ||
+
+छन्दोऽलङ्कारकाव्येषु तर्कव्याकरणादिषु |
+
+कलागुणेषु सर्वेषु प्रस्तुतं गणितं परम् ||
+
+“These verses”, Prof Ramasubramanian says, “brilliantly brings out the ubiquity of mathematics in every sphere of life, be it connected to mundane matters or spiritual pursuits or religious practices as indicated by the use of the word transaction (Vyāpāra). Even if one were to appreciate Chandas (meter), Kavya (literature), Vyākarana (grammar) or Tarka, mathematics is essential. 
+
+---
+
+Baudhāyana in his book Baudhāyana Sulbasutra, one of the oldest books in advanced mathematics, has written in a shloka about the Pythagorean theorem.
+
+“dīrghasyākṣaṇayā rajjuH pārśvamānī, tiryaDaM mānī,
+
+cha yatpṛthagbhUte kurutastadubhayāṅ karoti.”
+
+The shloka translates- A rope stretched along the length of the diagonal produces an area which the vertical and horizontal sides make together.
