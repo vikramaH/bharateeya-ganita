@@ -75,15 +75,15 @@ Sin(A) and Sin(A + x)]"
 
 =====
 
-Ref : Proofs in Indian Mathematics  
+Ref : **Proofs in Indian Mathematics**
 https://iks.iitgn.ac.in/wp-content/uploads/2016/02/Proofs-in-Indian-Mathematics-MD-Srinivas-2005.pdf
 
 In the beginning of the goladhyaya of Siddhantashiromani, Bhaskaracarya says:
 
->**मध्याद्यं द्युसदां यदत्र गणितं तस्योपपत्तिं विना**
->**प्रौढिं प्रौढसभासु नैति गणको निःसंशयो न स्वयम् ।**
->**गोले सा विमला करामलकवत् प्रत्यक्षतो दृश्यते**
->**तस्मादस्म्युपपत्तिबोधविधये गोलप्रबन्धोद्यतः ॥ 27**
+> **मध्याद्यं द्युसदां यदत्र गणितं तस्योपपत्तिं विना**
+> **प्रौढिं प्रौढसभासु नैति गणको निःसंशयो न स्वयम् ।**
+> **गोले सा विमला करामलकवत् प्रत्यक्षतो दृश्यते**
+> **तस्मादस्म्युपपत्तिबोधविधये गोलप्रबन्धोद्यतः ॥ 27**
 > Without the knowledge of upapatti-s, by merely mastering
 the gan. ita (calculational procedures) described here, from
 the madhyamadhikara (the first chapter of Siddhantashiromani)
@@ -95,11 +95,11 @@ in the (armillary) sphere like a berry in the hand, I there-
 fore begin the goladhyaya (section on spherics) to explain the
 upapatti-s.
 
->**व्यक्ते वाव्यक्तसंज्ञे यदुदितमखिलं नोपपत्तिं विना तत्**
->**निर्भ्रान्तो वा ऋते तां सुगणकसदसि प्रौढतां नैति चायम् ।**
->**प्रत्यक्षं दृश्यते सा करतलकलितादर्शवत् सुप्रसन्ना**
->**तस्मादग्र्योपपत्तिं निगदितुमखिलम् उत्सहे बुद्धिवृद्धौ ॥ 29** --- Ganesha Daivagya in his preface to Buddhivilasinı
->Whatever is stated in the vyakta or avyakta branches of
+> **व्यक्ते वाव्यक्तसंज्ञे यदुदितमखिलं नोपपत्तिं विना तत्**
+> **निर्भ्रान्तो वा ऋते तां सुगणकसदसि प्रौढतां नैति चायम् ।**
+> **प्रत्यक्षं दृश्यते सा करतलकलितादर्शवत् सुप्रसन्ना**
+> **तस्मादग्र्योपपत्तिं निगदितुमखिलम् उत्सहे बुद्धिवृद्धौ ॥ 29** --- Ganesha Daivagya in his preface to Buddhivilasinı
+> Whatever is stated in the vyakta or avyakta branches of
 mathematics, without upapatti, will not be rendered nirbhr ̄a-
 nta (free from confusion); will not have any value in an as-
 sembly of mathematicians. The upapatti is directly perceiv-
@@ -107,12 +107,12 @@ able like a mirror in hand. It is therefore, as also for the
 elevation of the intellect (buddhi-vr. ddhi), that I proceed to
 enunciate upapatti-s in entirety.
 
->The valid means for acquiring knowledge in mathematics are
+> The valid means for acquiring knowledge in mathematics are
 the same as in other sciences: प्रत्यक्ष (perception), अनुमान (infer-
 ence), शाब्द or आगम (authentic tradition). In his वासनाभाष्य on
 सिद्धान्तशिरोमणि Bhaskaracarya refers to the sources of valid knowl-
 edge (pramana) in mathematical astronomy, and declares that
->**यद्येवमुच्यते गणितस्कन्धे उपपत्तिमान् एवागमः प्रमाणम् **
+> **यद्येवमुच्यते गणितस्कन्धे उपपत्तिमान् एवागमः प्रमाणम् **
 >For all that is discussed in Mathematical Astronomy, only an
 authentic tradition or established text which is supported by
 upapatti will be a pramana.
