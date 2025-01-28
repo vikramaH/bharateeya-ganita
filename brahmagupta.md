@@ -75,6 +75,8 @@ Sin(A) and Sin(A + x)]"
 
 =====
 
+Ref : Proofs in Indian Mathematics  
+https://iks.iitgn.ac.in/wp-content/uploads/2016/02/Proofs-in-Indian-Mathematics-MD-Srinivas-2005.pdf
 
 In the beginning of the goladhyaya of Siddhantashiromani, Bhaskaracarya says:
 
@@ -83,16 +85,16 @@ In the beginning of the goladhyaya of Siddhantashiromani, Bhaskaracarya says:
 >**गोले सा विमला करामलकवत् प्रत्यक्षतो दृश्यते**
 >**तस्मादस्म्युपपत्तिबोधविधये गोलप्रबन्धोद्यतः ॥ 27**
 > Without the knowledge of upapatti-s, by merely mastering
-> the gan. ita (calculational procedures) described here, from
-> the madhyamadhikara (the first chapter of Siddhantashiromani)
-> onwards, of the (motion of the) heavenly bodies, a
+the gan. ita (calculational procedures) described here, from
+the madhyamadhikara (the first chapter of Siddhantashiromani)
+onwards, of the (motion of the) heavenly bodies, a
 mathematician will not have any value in the scholarly as-
 semblies; without the upapatti-s he himself will not be free
 of doubt (निःसंशय). Since upapatti is clearly perceivable
 in the (armillary) sphere like a berry in the hand, I there-
 fore begin the goladhyaya (section on spherics) to explain the
 upapatti-s.
->
+
 >**व्यक्ते वाव्यक्तसंज्ञे यदुदितमखिलं नोपपत्तिं विना तत्**
 >**निर्भ्रान्तो वा ऋते तां सुगणकसदसि प्रौढतां नैति चायम् ।**
 >**प्रत्यक्षं दृश्यते सा करतलकलितादर्शवत् सुप्रसन्ना**
