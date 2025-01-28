@@ -168,3 +168,7 @@ Baudhāyana in his book Baudhāyana Sulbasutra, one of the oldest books in advan
 cha yatpṛthagbhUte kurutastadubhayāṅ karoti.”
 
 The shloka translates- A rope stretched along the length of the diagonal produces an area which the vertical and horizontal sides make together.
+
+---
+
+ESSENCE OF ‘ARYABHATIYA’, A COMPOSITION BY THEGREAT INDIAN MATHEMATICIAN ‘ARYABHATTA’ https://www.researchgate.net/publication/368585609_Essence_of_'Aryabhatiya'_a_Composition_by_The_Great_Indian_Mathematician_'Aryabhatta'_by_Neetu_Rani_Savita_Garg
