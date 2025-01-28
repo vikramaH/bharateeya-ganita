@@ -95,6 +95,8 @@ in the (armillary) sphere like a berry in the hand, I there-
 fore begin the goladhyaya (section on spherics) to explain the
 upapatti-s.
 
+---
+
 > **व्यक्ते वाव्यक्तसंज्ञे यदुदितमखिलं नोपपत्तिं विना तत्**
 > **निर्भ्रान्तो वा ऋते तां सुगणकसदसि प्रौढतां नैति चायम् ।**
 > **प्रत्यक्षं दृश्यते सा करतलकलितादर्शवत् सुप्रसन्ना**
@@ -106,6 +108,8 @@ sembly of mathematicians. The upapatti is directly perceiv-
 able like a mirror in hand. It is therefore, as also for the
 elevation of the intellect (buddhi-vr. ddhi), that I proceed to
 enunciate upapatti-s in entirety.
+
+---
 
 > The valid means for acquiring knowledge in mathematics are
 the same as in other sciences: प्रत्यक्ष (perception), अनुमान (infer-
